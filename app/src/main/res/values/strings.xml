@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Superhero Apps</string>
+    <string name="heroes_name">Nama Superhero</string>
+    <string name="description">Deskripsi</string>
+</resources>
